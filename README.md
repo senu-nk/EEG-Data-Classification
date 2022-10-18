@@ -1,4 +1,4 @@
-# EEG-Data-ML
+# EEG-Data-Classification
 
 
 ### About the Dataset
